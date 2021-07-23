@@ -1,0 +1,89 @@
+body{
+    background-color: khaki;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 1ch;
+}
+h1{
+    color: saddlebrown;
+    text-align: center;
+}
+.Introduction{
+    font-size: 110%;
+    text-align: justify;
+}
+.PastaVaZoolImg1{
+    border-style: double;
+    border-color: seashell;
+}
+ul{
+    font-size: 120%;
+}
+.InstructionHeading{
+    text-align: center;
+}
+.Image1{
+    width: 500px;
+    height: 500px;
+}
+.Instructions1{
+    font-family: Arial;
+    font-size: 110%;
+}
+.Step1{
+    text-align: center;
+}
+.Instructions2{
+    font-family: Arial;
+    font-size: 110%;
+}
+.Step2{
+    text-align: center;
+}
+.Instructions3{
+    font-family: Arial;
+    font-size: 110%;
+}
+.Step3{
+    text-align: center;
+}
+.Image2{
+    width: 500px;
+    height: 500px;
+}
+.Instructions4{
+    font-family: Arial;
+    font-size: 110%;
+}
+.Step4{
+    text-align: center;
+}
+.Instructions5{
+    font-family: Arial;
+    font-size: 110%;
+}
+.Step5{
+    text-align: center;
+}
+.Instructions6{
+    font-family: Arial;
+    font-size: 110%;
+}
+.Step6{
+    text-align: center;
+}
+.Image3{
+    width: 500px;
+    height: 500px;
+}
+#Congratulations{
+    color: lightcoral;
+    text-align: center;
+}
+div{
+    font-family: Arial;
+    font-size: 110%;
+    border-style: solid;
+    border-color: firebrick;
+    border-width: 1ch;
+}
